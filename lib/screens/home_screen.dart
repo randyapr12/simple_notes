@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_notes/models/note_model.dart';
-import 'package:flutter_notes/screens/create_note.dart';
-import 'package:flutter_notes/screens/widgets/note_card.dart';
-import 'package:flutter_notes/style/app_style.dart';
+import 'package:simple_notes/models/note_model.dart';
+import 'package:simple_notes/screens/create_note.dart';
+import 'package:simple_notes/screens/widgets/note_card.dart';
+import 'package:simple_notes/style/app_style.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key});

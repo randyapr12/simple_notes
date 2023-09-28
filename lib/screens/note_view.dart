@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_notes/models/note_model.dart';
-import 'package:flutter_notes/style/app_style.dart';
+import 'package:simple_notes/models/note_model.dart';
+import 'package:simple_notes/style/app_style.dart';
 
 class NoteView extends StatelessWidget {
   const NoteView(
